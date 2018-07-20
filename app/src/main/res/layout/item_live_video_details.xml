@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="100dp">
+
+    <ImageView
+        android:id="@+id/iv_live_video_preview"
+        android:layout_width="130dp"
+        android:layout_height="70dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintEnd_toStartOf="@+id/tv_live_video_title"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/img_default_video_pic" />
+
+    <TextView
+        android:id="@+id/tv_live_video_title"
+        android:layout_width="178dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="35dp"
+        android:textColor="#000"
+        android:textSize="17sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="直播名称" />
+
+
+
+    <ImageView
+        android:visibility="gone"
+        android:id="@+id/imageView2"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintTop_toBottomOf="@+id/tv_live_video_title"
+        app:srcCompat="@mipmap/icon_watching_eyes"
+        tools:layout_editor_absoluteX="179dp" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tv_watching_nums"
+        android:layout_width="30dp"
+        android:layout_height="12dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="16dp"
+        android:textSize="12sp"
+        app:layout_constraintStart_toEndOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/tv_live_video_title"
+        tools:text="观看人数" />
+
+    <View
+        android:visibility="gone"
+        android:layout_width="1dp"
+        android:layout_height="15dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="16dp"
+        android:background="#000"
+        app:layout_constraintStart_toEndOf="@+id/tv_watching_nums"
+        app:layout_constraintTop_toBottomOf="@+id/tv_live_video_title" />
+
+    <ImageView
+        android:visibility="gone"
+        android:id="@+id/imageView3"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintTop_toBottomOf="@+id/tv_live_video_title"
+        app:srcCompat="@mipmap/icon_good"
+        tools:layout_editor_absoluteX="240dp" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tv_good_nums"
+        android:layout_width="30dp"
+        android:layout_height="12dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="16dp"
+        android:textSize="12sp"
+        app:layout_constraintStart_toEndOf="@+id/imageView3"
+        app:layout_constraintTop_toBottomOf="@+id/tv_live_video_title"
+        tools:text="观看人数" />
+
+    <View
+        android:visibility="gone"
+        android:layout_width="1dp"
+        android:layout_height="15dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="16dp"
+        android:background="#000"
+        app:layout_constraintStart_toEndOf="@+id/tv_good_nums"
+        app:layout_constraintTop_toBottomOf="@+id/tv_live_video_title" />
+
+    <ImageView
+        android:visibility="gone"
+        android:id="@+id/imageView4"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintTop_toBottomOf="@+id/tv_live_video_title"
+        app:srcCompat="@mipmap/icon_comment"
+        tools:layout_editor_absoluteX="300dp" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tv_comments"
+        android:layout_width="30dp"
+        android:layout_height="12dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="16dp"
+        android:textSize="12sp"
+        app:layout_constraintStart_toEndOf="@+id/imageView4"
+        app:layout_constraintTop_toBottomOf="@+id/tv_live_video_title"
+        tools:text="观看人数" />
+</android.support.constraint.ConstraintLayout>

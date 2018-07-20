@@ -1,0 +1,291 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:2:1-74:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\2c98d7c869c2558a4010ef3400996692\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.hackware1993:MagicIndicator:1.5.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\MagicIndicator-1.5.0.aar\8efcf84bf7e39c3b21f28ee0c7616f2c\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\993a89abb991eed761339ceb4cdbeb1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.shuyu:gsyVideoPlayer-java:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-java-5.0.1.aar\f769fb45cd0047efb9d32e6ed15f911d\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b0206c7a5eb5af1ffd1e6393b5874278\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\39beb6716001c1d10268e93a5ccb87a4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\cbefc80929f62cfa070a801484ee7c3d\AndroidManifest.xml:2:1-7:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\ea06e455a8764d77bd77c4526b10a469\AndroidManifest.xml:15:1-21:12
+MERGED from [com.tencent.bugly:crashreport:2.6.6.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\crashreport-2.6.6.1.aar\9000707f0813622149d9cbebf48e6179\AndroidManifest.xml:2:1-9:12
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.3.1.aar\e66c1e0ddc1dda4cec2066f85c0db1d8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\banner-1.4.10.aar\b76b47c8f819a3c269c98b6daa710e26\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\00d120025cf20b9e0561fd5993daa46b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a8fabf330f24bceaf07dce2d60de4094\AndroidManifest.xml:17:1-22:12
+MERGED from [com.shuyu:gsyVideoPlayer-ex_so:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-ex_so-5.0.1.aar\35fe1ce5e60e3533d814227bf251dd0b\AndroidManifest.xml:2:1-17:12
+MERGED from [com.andkulikov:transitionseverywhere:1.7.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\transitionseverywhere-1.7.0.aar\52c73a22fd383052d73a5871778d7ff4\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\538cdf9d2f7e22d9c8bc55f6d5db42c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\402d7462f3931426e95767685504ef0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b2515d6d4aa3e6376d8dbbd1c695c028\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f53f0052cf84f9c15598651dd342b651\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\87e3b6ce66cf7e4fbae212f6edf132bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\93827d60f64c94f6120435118211d526\AndroidManifest.xml:17:1-22:12
+MERGED from [com.shuyu:GSYVideoPlayer-exo2:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\GSYVideoPlayer-exo2-5.0.1.aar\f2268ef47d6a9cce0765ad5651b2e109\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\extension-rtmp-2.8.2.aar\f4f481e957584c2511645287086f05f4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-2.8.2.aar\9d6b63c9ebbab673a4938ec17ad71018\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.8.2.aar\56fc8535fc90c1e81d130a89e7583e28\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.8.2.aar\34da7e89ccd4060a01bb3e478be08580\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.8.2.aar\d63dd6130051b19814dd77efdb4f745a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.8.2.aar\22cf8796df149d7641d0d33b6e25bbb4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.8.2.aar\8d64d2c51331024d93c23ffd598e583a\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\73910da89d971e77bff3ce0713290c12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\29dda98617c71dadc5d6f2daefdadfb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d6cace6731f841eb8a626aea2d99a98b\AndroidManifest.xml:17:1-22:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.8.aar\ab18a76476e764a292b2b06fc57ffdd0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyvideoplayer-androidvideocache-5.0.1.aar\34c237a1e6cb93e75c711c4779757112\AndroidManifest.xml:2:1-17:12
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\rtmp-client-3.0.1.aar\da79d6353f15d4f375ba1129074099bf\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f9ad53ed4d55b6ed4b6b3b619eb1c15f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e12473b60cb3de173c52753a3f9083a0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\91ecf5a12181d6105be3792ebdab9695\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ed35261bf7656121a8102d4aac0c2fe5\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:7:5-85
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:7:22-82
+uses-permission#com.android.launcher.permission.WRITE_SETTINGS
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:9:5-86
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:9:22-83
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.8.2.aar\8d64d2c51331024d93c23ffd598e583a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.8.2.aar\8d64d2c51331024d93c23ffd598e583a\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:23:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\rtmp-client-3.0.1.aar\da79d6353f15d4f375ba1129074099bf\AndroidManifest.xml:11:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\rtmp-client-3.0.1.aar\da79d6353f15d4f375ba1129074099bf\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:23:22-64
+supports-screens
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:26:5-31:39
+	android:largeScreens
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:28:9-36
+	android:smallScreens
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:31:9-36
+	android:normalScreens
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:29:9-38
+	android:resizeable
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:30:9-34
+	android:anyDensity
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:27:9-34
+application
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:33:5-72:19
+MERGED from [com.shuyu:gsyVideoPlayer-java:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-java-5.0.1.aar\f769fb45cd0047efb9d32e6ed15f911d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-java:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-java-5.0.1.aar\f769fb45cd0047efb9d32e6ed15f911d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\39beb6716001c1d10268e93a5ccb87a4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\39beb6716001c1d10268e93a5ccb87a4\AndroidManifest.xml:9:5-20
+MERGED from [com.shuyu:gsyVideoPlayer-ex_so:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-ex_so-5.0.1.aar\35fe1ce5e60e3533d814227bf251dd0b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-ex_so:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-ex_so-5.0.1.aar\35fe1ce5e60e3533d814227bf251dd0b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.andkulikov:transitionseverywhere:1.7.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\transitionseverywhere-1.7.0.aar\52c73a22fd383052d73a5871778d7ff4\AndroidManifest.xml:12:5-20
+MERGED from [com.andkulikov:transitionseverywhere:1.7.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\transitionseverywhere-1.7.0.aar\52c73a22fd383052d73a5871778d7ff4\AndroidManifest.xml:12:5-20
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyvideoplayer-androidvideocache-5.0.1.aar\34c237a1e6cb93e75c711c4779757112\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyvideoplayer-androidvideocache-5.0.1.aar\34c237a1e6cb93e75c711c4779757112\AndroidManifest.xml:11:5-15:19
+	android:supportsRtl
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:39:9-35
+	android:label
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:37:9-41
+		REJECTED from [com.shuyu:gsyVideoPlayer-java:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-java-5.0.1.aar\f769fb45cd0047efb9d32e6ed15f911d\AndroidManifest.xml:13:9-41
+		REJECTED from [com.shuyu:gsyVideoPlayer-ex_so:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-ex_so-5.0.1.aar\35fe1ce5e60e3533d814227bf251dd0b\AndroidManifest.xml:13:9-41
+		REJECTED from [com.shuyu:gsyvideoplayer-androidvideocache:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyvideoplayer-androidvideocache-5.0.1.aar\34c237a1e6cb93e75c711c4779757112\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:38:9-54
+	android:icon
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:36:9-40
+	android:allowBackup
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:35:9-35
+	android:theme
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:40:9-47
+	tools:replace
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:41:9-41
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:34:9-42
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:44:9-46:64
+	android:value
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:46:13-61
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:45:13-52
+activity#com.microsys.videodemo.HomeActivity
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:48:9-57:20
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:51:13-49
+	android:launchMode
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:50:13-44
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:49:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:55:27-74
+activity#com.microsys.videodemo.ui.activities.location.LocationActivity
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:58:9-61:52
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:61:13-49
+	android:configChanges
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:60:13-74
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:59:13-68
+activity#com.microsys.videodemo.ui.activities.media.video.PlayVideoActivity
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:62:9-65:52
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:65:13-49
+	android:configChanges
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:64:13-74
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:63:13-72
+activity#com.microsys.videodemo.ui.activities.category.CategoryActivity
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:67:13-68
+activity#com.microsys.videodemo.ui.activities.search.SearchActivity
+ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:69:9-71:52
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml:70:13-64
+uses-sdk
+INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\2c98d7c869c2558a4010ef3400996692\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\2c98d7c869c2558a4010ef3400996692\AndroidManifest.xml:20:5-43
+MERGED from [com.github.hackware1993:MagicIndicator:1.5.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\MagicIndicator-1.5.0.aar\8efcf84bf7e39c3b21f28ee0c7616f2c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.hackware1993:MagicIndicator:1.5.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\MagicIndicator-1.5.0.aar\8efcf84bf7e39c3b21f28ee0c7616f2c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\993a89abb991eed761339ceb4cdbeb1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\993a89abb991eed761339ceb4cdbeb1e\AndroidManifest.xml:20:5-44
+MERGED from [com.shuyu:gsyVideoPlayer-java:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-java-5.0.1.aar\f769fb45cd0047efb9d32e6ed15f911d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-java:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-java-5.0.1.aar\f769fb45cd0047efb9d32e6ed15f911d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b0206c7a5eb5af1ffd1e6393b5874278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b0206c7a5eb5af1ffd1e6393b5874278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\39beb6716001c1d10268e93a5ccb87a4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\39beb6716001c1d10268e93a5ccb87a4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\cbefc80929f62cfa070a801484ee7c3d\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\cbefc80929f62cfa070a801484ee7c3d\AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\ea06e455a8764d77bd77c4526b10a469\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\ea06e455a8764d77bd77c4526b10a469\AndroidManifest.xml:19:5-43
+MERGED from [com.tencent.bugly:crashreport:2.6.6.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\crashreport-2.6.6.1.aar\9000707f0813622149d9cbebf48e6179\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:crashreport:2.6.6.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\crashreport-2.6.6.1.aar\9000707f0813622149d9cbebf48e6179\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.3.1.aar\e66c1e0ddc1dda4cec2066f85c0db1d8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.3.1.aar\e66c1e0ddc1dda4cec2066f85c0db1d8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\banner-1.4.10.aar\b76b47c8f819a3c269c98b6daa710e26\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\banner-1.4.10.aar\b76b47c8f819a3c269c98b6daa710e26\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\00d120025cf20b9e0561fd5993daa46b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\00d120025cf20b9e0561fd5993daa46b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a8fabf330f24bceaf07dce2d60de4094\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a8fabf330f24bceaf07dce2d60de4094\AndroidManifest.xml:20:5-44
+MERGED from [com.shuyu:gsyVideoPlayer-ex_so:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-ex_so-5.0.1.aar\35fe1ce5e60e3533d814227bf251dd0b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-ex_so:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyVideoPlayer-ex_so-5.0.1.aar\35fe1ce5e60e3533d814227bf251dd0b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.andkulikov:transitionseverywhere:1.7.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\transitionseverywhere-1.7.0.aar\52c73a22fd383052d73a5871778d7ff4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.andkulikov:transitionseverywhere:1.7.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\transitionseverywhere-1.7.0.aar\52c73a22fd383052d73a5871778d7ff4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\538cdf9d2f7e22d9c8bc55f6d5db42c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\538cdf9d2f7e22d9c8bc55f6d5db42c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\402d7462f3931426e95767685504ef0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\402d7462f3931426e95767685504ef0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b2515d6d4aa3e6376d8dbbd1c695c028\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b2515d6d4aa3e6376d8dbbd1c695c028\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f53f0052cf84f9c15598651dd342b651\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f53f0052cf84f9c15598651dd342b651\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\87e3b6ce66cf7e4fbae212f6edf132bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\87e3b6ce66cf7e4fbae212f6edf132bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\93827d60f64c94f6120435118211d526\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\93827d60f64c94f6120435118211d526\AndroidManifest.xml:20:5-44
+MERGED from [com.shuyu:GSYVideoPlayer-exo2:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\GSYVideoPlayer-exo2-5.0.1.aar\f2268ef47d6a9cce0765ad5651b2e109\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:GSYVideoPlayer-exo2:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\GSYVideoPlayer-exo2-5.0.1.aar\f2268ef47d6a9cce0765ad5651b2e109\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\extension-rtmp-2.8.2.aar\f4f481e957584c2511645287086f05f4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\extension-rtmp-2.8.2.aar\f4f481e957584c2511645287086f05f4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-2.8.2.aar\9d6b63c9ebbab673a4938ec17ad71018\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-2.8.2.aar\9d6b63c9ebbab673a4938ec17ad71018\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.8.2.aar\56fc8535fc90c1e81d130a89e7583e28\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.8.2.aar\56fc8535fc90c1e81d130a89e7583e28\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.8.2.aar\34da7e89ccd4060a01bb3e478be08580\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.8.2.aar\34da7e89ccd4060a01bb3e478be08580\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.8.2.aar\d63dd6130051b19814dd77efdb4f745a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.8.2.aar\d63dd6130051b19814dd77efdb4f745a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.8.2.aar\22cf8796df149d7641d0d33b6e25bbb4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.8.2.aar\22cf8796df149d7641d0d33b6e25bbb4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.8.2.aar\8d64d2c51331024d93c23ffd598e583a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.2] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.8.2.aar\8d64d2c51331024d93c23ffd598e583a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\73910da89d971e77bff3ce0713290c12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\73910da89d971e77bff3ce0713290c12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\29dda98617c71dadc5d6f2daefdadfb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\29dda98617c71dadc5d6f2daefdadfb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d6cace6731f841eb8a626aea2d99a98b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d6cace6731f841eb8a626aea2d99a98b\AndroidManifest.xml:20:5-44
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.8.aar\ab18a76476e764a292b2b06fc57ffdd0\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.8.aar\ab18a76476e764a292b2b06fc57ffdd0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyvideoplayer-androidvideocache-5.0.1.aar\34c237a1e6cb93e75c711c4779757112\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:5.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\gsyvideoplayer-androidvideocache-5.0.1.aar\34c237a1e6cb93e75c711c4779757112\AndroidManifest.xml:7:5-9:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\rtmp-client-3.0.1.aar\da79d6353f15d4f375ba1129074099bf\AndroidManifest.xml:7:5-9:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\rtmp-client-3.0.1.aar\da79d6353f15d4f375ba1129074099bf\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f9ad53ed4d55b6ed4b6b3b619eb1c15f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f9ad53ed4d55b6ed4b6b3b619eb1c15f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e12473b60cb3de173c52753a3f9083a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e12473b60cb3de173c52753a3f9083a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\91ecf5a12181d6105be3792ebdab9695\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\91ecf5a12181d6105be3792ebdab9695\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ed35261bf7656121a8102d4aac0c2fe5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\microsys\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ed35261bf7656121a8102d4aac0c2fe5\AndroidManifest.xml:20:5-44
+INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\svnCodes\VideoDemo\app\src\main\AndroidManifest.xml

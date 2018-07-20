@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:orientation="horizontal">
+
+    <EditText
+        android:id="@+id/editSearch"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/min_margin"
+        android:layout_marginLeft="@dimen/common_margin"
+        android:layout_marginRight="@dimen/common_margin"
+        android:layout_marginTop="@dimen/min_margin"
+        android:layout_weight="1"
+        android:background="@drawable/edit_white_round_shape"
+        android:drawableLeft="@mipmap/search_b"
+        android:drawableStart="@mipmap/search_b"
+        android:focusable="false"
+        android:hint="@string/print_search"
+        android:imeOptions="actionSearch"
+        android:inputType="text"
+        android:lines="1"
+        android:padding="@dimen/min_padding"
+        android:singleLine="true"
+        android:textColor="@color/common_h1"
+        android:textColorHint="@color/gray_font"
+        android:textSize="@dimen/common_font" />
+
+    <TextView
+        android:id="@+id/tvCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="@dimen/common_margin"
+        android:text="@string/cancel"
+        android:textColor="@color/white"
+        android:textSize="@dimen/common_font"
+        android:visibility="gone" />
+
+</LinearLayout>

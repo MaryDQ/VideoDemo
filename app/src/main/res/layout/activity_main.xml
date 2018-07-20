@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/main_title_bar"
+        layout="@layout/base_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="35dp">
+
+        <net.lucode.hackware.magicindicator.MagicIndicator
+            android:id="@+id/main_indicator"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+             />
+
+
+
+        <ImageView
+            android:contentDescription="@string/app_name"
+            android:id="@+id/ivCategory"
+            android:layout_width="25dp"
+            android:layout_marginRight="5dp"
+            android:layout_gravity="center_vertical"
+            android:layout_height="25dp"
+            android:src="@mipmap/icon_category" />
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>
