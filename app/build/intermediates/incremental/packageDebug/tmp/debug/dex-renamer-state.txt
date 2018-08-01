@@ -1,7 +1,7 @@
-#Fri Jul 20 08:55:13 CST 2018
-base.0=E\:\\AndroidStudioProjects\\svnCodes\\VideoDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Thu Jul 26 09:55:19 CST 2018
+base.0=E\:\\AndroidStudioProjects\\svnCodes\\VideoDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
 path.1=classes2.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=E\:\\AndroidStudioProjects\\svnCodes\\VideoDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.1=E\:\\AndroidStudioProjects\\svnCodes\\VideoDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4

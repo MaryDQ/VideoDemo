@@ -228,6 +228,7 @@ public class LocationActivity extends BaseActivity<GetAllLocationSimpleInfoPrese
     @Subscribe(threadMode = ThreadMode.MAIN)
     public void onMessageEvent(DismissDialogEvent event) {
         if (event.isRefresh()) {
+            Constants.isUserCancelDialog = true;
             dismissLoading();
         }
     }

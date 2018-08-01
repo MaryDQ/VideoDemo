@@ -18,7 +18,7 @@ import com.microsys.videodemo.base.BaseFragment;
 import com.microsys.videodemo.common.Constants;
 import com.microsys.videodemo.di.component.AppComponent;
 import com.microsys.videodemo.di.component.DaggerCommonFragmentComponent;
-import com.microsys.videodemo.eventbus_events.FragmentRefreshEvent;
+import com.microsys.videodemo.eventbus_events.DismissDialogEvent;
 import com.microsys.videodemo.eventbus_events.HomeActivityRefreshEvent;
 import com.microsys.videodemo.eventbus_events.HomeActivitySwitchFragEvent;
 import com.microsys.videodemo.ui.activities.media.video.PlayVideoActivity;
@@ -289,8 +289,9 @@ public class VideoFragment extends BaseFragment<GetVideoPresenter> implements Ge
         super.onPause();
     }
 
+
     @Subscribe(threadMode = ThreadMode.MAIN)
-    public void onMessageEvent(FragmentRefreshEvent event) {
+    public void onMessageEvent(DismissDialogEvent event) {
         if (event.isRefresh()) {
             Constants.isUserCancelDialog = true;
             dismissLoading();
@@ -309,12 +310,23 @@ public class VideoFragment extends BaseFragment<GetVideoPresenter> implements Ge
 
     @Override
     public void showError(String msg) {
+        mHandler.post(new Runnable() {
+            @Override
+            public void run() {
+                dismissLoading();
 
+            }
+        });
     }
 
     @Override
     public void complete() {
-
+        mHandler.post(new Runnable() {
+            @Override
+            public void run() {
+                dismissLoading();
+            }
+        });
     }
 
 

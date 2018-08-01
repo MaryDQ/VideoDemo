@@ -251,6 +251,7 @@ public class SearchActivity extends BaseNoTitleActivity<SearchVideoPresenter> im
     @Subscribe(threadMode = ThreadMode.MAIN)
     public void onMessageEvent(DismissDialogEvent event) {
         if (event.isRefresh()) {
+            Constants.isUserCancelDialog = true;
             dismissLoading();
         }
     }

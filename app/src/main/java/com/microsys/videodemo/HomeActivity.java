@@ -251,6 +251,7 @@ public class HomeActivity extends BaseNoTitleActivity<GetRecommendListPresenter>
     @Subscribe(threadMode = ThreadMode.MAIN)
     public void onMessageEvent(DismissDialogEvent event) {
         if (event.isRefresh()) {
+            Constants.isUserCancelDialog = true;
             dismissLoading();
         }
     }

@@ -57,7 +57,7 @@ public abstract class AbstractSimpleAdapter<T> extends AbstractMultiTypeAdapter 
 
     public interface  OnItemClickListener{
         void onClickItem(Object o,int position);
-    };
+    }
 
 
 

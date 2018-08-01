@@ -123,6 +123,7 @@ public class PlayVideoActivity extends BaseActivity {
     @Subscribe(threadMode = ThreadMode.MAIN)
     public void onMessageEvent(DismissDialogEvent event) {
         if (event.isRefresh()) {
+            Constants.isUserCancelDialog = true;
             dismissLoading();
         }
     }

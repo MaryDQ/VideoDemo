@@ -161,7 +161,7 @@ public abstract class BaseActivity<P extends IPresenter> extends AppCompatActivi
 
     protected void showLoading(String msg) {
         if (dialog == null) {
-            Constants.isUserCancelDialog=false;
+            Constants.isUserCancelDialog = false;
             dialog = new MyProgressDialog(mContext);
             dialog.setMessage(msg);
             dialog.setCancelable(false);

@@ -21,7 +21,7 @@ public class Api {
     /**
      * baseUrl 10.66.6.183
      */
-    public static final String BASE_URL_WITHOUT_PORT = "http://10.66.6.183:";
+    public static final String BASE_URL_WITHOUT_PORT = "http://10.60.6.183:";
     public static final String BASE_URL=BASE_URL_WITHOUT_PORT+"8081/";
 
     private ApiService apiService;
